@@ -6,4 +6,5 @@
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
