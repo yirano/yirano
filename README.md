@@ -16,7 +16,7 @@
 
 <center>
 
-|                                       |                                Projects                                 |                                                                                        |                      |
+|                                       |                                                                         |                                                                                        |                      |
 | ------------------------------------- | :---------------------------------------------------------------------: | -------------------------------------------------------------------------------------- | :------------------- |
 | Job Listing                           |        [GitHub](https://github.com/yirano/Frontend_Job-Listing)         | [Live Page](https://job-listing-tau.now.sh/)                                           | React                |
 | Team Builder                          |        [GitHub](https://github.com/yirano/project_team-builder)         | [Live Page]( https://team-builder-taupe.now.sh/ )                                      | React                |
