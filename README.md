@@ -1,15 +1,6 @@
 ### *Heyo*! My name is **Tiffany**. :wave:
-<br />
 
 ### I'm a frontend focused Fullstack developer who obsessively builds projects with... <br />
-:fire: **React** <br />
-:fire: **Redux** <br />
-:fire: **NodeJS** <br />
-:fire: **Express** <br />
-<br />
-
-#### I have a knack for `efficiency` and `debugging` broken code. I really live for those `Aha!` moments that comes from obsessing over the two.
-
 
 #### I'm currently working on updating my portfolio, but here are some projects that you can take a look at in the meantime!
 
