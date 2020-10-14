@@ -17,7 +17,7 @@
 <center>
 
 | Project Name                          |                            GitHub Repository                            |                                     Live Page Link                                     |                      |
-| ------------------------------------- | :---------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :------------------- |
+| :------------------------------------ | :---------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :------------------- |
 | Job Listing                           |        [GitHub](https://github.com/yirano/Frontend_Job-Listing)         |                      [Live Page](https://job-listing-tau.now.sh/)                      | React                |
 | URL Shortener                         |          [GitHub](https://github.com/yirano/React-Redux-App-1)          |                 [Live Page](https://url-shortening-api-tawny.now.sh/)                  | React+Redux          |
 | Fashion Blog                          |        [GitHub](https://github.com/yirano/frontend-fashion_blog)        |              [Live Page](https://yirano.github.io/frontend-fashion_blog/)              | HTML+CSS+JavaScript  |
