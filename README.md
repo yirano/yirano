@@ -1,24 +1,9 @@
 ### *Heyo*! My name is **Tiffany**. :wave:
 
-### I'm a frontend focused Fullstack developer. <br />
-
-#### I'm currently working on updating my portfolio, but here are some projects that you can take a look at in the meantime!
-
-
-<center>
-
-| Project Name                          |                            GitHub Repository                            |                                     Live Page Link                                     |                      |
-| :------------------------------------ | :---------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :------------------- |
-| Job Listing                           |        [GitHub](https://github.com/yirano/Frontend_Job-Listing)         |                      [Live Page](https://job-listing-tau.now.sh/)                      | React                |
-| URL Shortener                         |          [GitHub](https://github.com/yirano/React-Redux-App-1)          |                 [Live Page](https://url-shortening-api-tawny.now.sh/)                  | React+Redux          |
-| Fashion Blog                          |        [GitHub](https://github.com/yirano/frontend-fashion_blog)        |              [Live Page](https://yirano.github.io/frontend-fashion_blog/)              | HTML+CSS+JavaScript  |
-| Team Builder                          |        [GitHub](https://github.com/yirano/project_team-builder)         |                   [Live Page]( https://team-builder-taupe.now.sh/ )                    | React                |
-| Todo App                              |             [GitHub](https://github.com/yirano/React-Todo)              |                     [Live Page]( https://react-todo-eta.now.sh/ )                      | React                |
-| NewsWeek Replica                      |     [GitHub](https://github.com/yirano/frontend-bootstrap-newsweek)     |         [Live Page](https://yirano.github.io/frontend-bootstrap-newsweek/src/)         | HTML+CSS             |
-| Buildweek Project as a Unit 1 Student | [GitHub](https://github.com/Secret-Family-Recipes-Cookbook-6/Marketing) | [Live Page]( https://secret-family-recipes-cookbook-6.github.io/Marketing/index.html ) | HTML+Less+JavaScript |
-| Buildweek Project as a Unit 3 Student |        [GitHub](https://github.com/The-Expat-Journal/front-end)         |                                                                                        | React+Redux          |
-| Buildweek Project as a Unit 4 Student |         [GitHub](https://github.com/BW-Pintereach-Aja/back-end)         |                                                                                        | NodeJS, Express      |
-
-
-
-</center>
+### I'm a frontend focused Fullstack developer powered by... <br />
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
