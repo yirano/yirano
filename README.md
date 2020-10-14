@@ -10,11 +10,9 @@
 
 #### I have a knack for `efficiency` and `debugging` broken code. I really live for those `Aha!` moments that comes from obsessing over the two.
 
-<br />
 
 #### I'm currently working on updating my portfolio, but here are some projects that you can take a look at in the meantime!
 
-<br />
 
 Let's start you off with some of my *favorite*  projects I completed as a student at Lambda School.
 
