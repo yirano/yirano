@@ -1,6 +1,6 @@
 ### *Heyo*! My name is **Tiffany**. :wave:
 
-### I'm a frontend focused Fullstack developer who obsessively builds projects with... <br />
+### I'm a frontend focused Fullstack developer. <br />
 
 #### I'm currently working on updating my portfolio, but here are some projects that you can take a look at in the meantime!
 
