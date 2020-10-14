@@ -9,6 +9,6 @@
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=nodejs)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat&logo=expressjs)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
 ![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
