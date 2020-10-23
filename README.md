@@ -15,4 +15,4 @@
 
 ⭐️ **Current Status:** Computer Science at *Lambda School* <br/>
 🌱 **Currently Working on:** Putting finishing touches on my portfolio + building a todo app for my iMac bc I'm too cheap to buy one <br/>
-:muscle: **Currently Studying:** Python
+:muscle: **Currently Studying:** Python + ElectronJS
