@@ -14,5 +14,5 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 ⭐️ **Current Status:** Computer Science at *Lambda School* <br/>
-🌱 **Currently Working on:** Updating my Portfolio <br/>
+🌱 **Currently Working on:** Putting finishing touches on my portfolio + building a desktop app because I'm too cheap to buy a todo-app for my iMac <br/>
 :muscle: **Currently Studying:** Python
