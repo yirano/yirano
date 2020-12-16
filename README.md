@@ -1,6 +1,6 @@
-### *Heyo*! My name is **Tiffany**. :wave:
-
 ![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=yirano&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)
+
+### *Heyo*! My name is **Tiffany**. :wave:
 
 ### I'm a frontend focused Fullstack developer powered by... <br />
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
