@@ -1,5 +1,7 @@
 ### *Heyo*! My name is **Tiffany**. :wave:
 
+![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=yirano&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)
+
 ### I'm a frontend focused Fullstack developer powered by... <br />
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
@@ -16,3 +18,4 @@
 ⭐️ **Current Status:** Labs at *Lambda School* <br/>
 🌱 **Currently Working on:** Building User Portals for VillageBookBuilders.org <br/>
 :muscle: **Currently Studying:** Python
+
