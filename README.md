@@ -15,7 +15,7 @@
 
 ⭐️ **Current Status:** Labs at *Lambda School* <br/>
 🌱 **Currently Working on:** Building User Portals for VillageBookBuilders.org <br/>
-:muscle: **Currently Studying:** Python
+:muscle: **Currently Studying:** Craft CMS
 
 -----
 
