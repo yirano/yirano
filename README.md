@@ -13,9 +13,9 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-⭐️ **Current Status:** Labs at *Lambda School* <br/>
-🌱 **Currently Working on:** Building User Portals for VillageBookBuilders.org <br/>
-:muscle: **Currently Studying:** Craft CMS
+⭐️ **Current Status:** Web Developer <br/>
+🌱 **Currently Working on:** No personal project at the moment <br/>
+:muscle: **Currently Studying:** Django and Craft CMS
 
 -----
 
