@@ -17,7 +17,4 @@
 🌱 **Currently Working on:** No personal project at the moment <br/>
 :muscle: **Currently Studying:** Django and Craft CMS
 
------
-
-![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=yirano&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)
 
