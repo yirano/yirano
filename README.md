@@ -15,6 +15,6 @@
 
 ⭐️ **Current Status:** Web Developer <br/>
 🌱 **Currently Working on:** No personal project at the moment <br/>
-:muscle: **Currently Studying:** Django and Craft CMS
+:muscle: **Currently Studying:** Django and Svelte
 
 
