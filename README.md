@@ -1,4 +1,4 @@
-### *Heyo*! My name is **Tiffany**. :wave:
+### *Heyo*! My name is **Yirang**. :wave:
 
 ### I'm a frontend focused Fullstack developer powered by... <br />
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
@@ -13,8 +13,8 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-⭐️ **Current Status:** Web Developer <br/>
+⭐️ **Current Status:** Junior Engineer @ Mostly Serious <br/>
 🌱 **Currently Working on:** No personal project at the moment <br/>
-:muscle: **Currently Studying:** Django and Svelte
+:muscle: **Currently Working with:** Django w/Wagtail & Mezzanine across various projects and Craft CMS 
 
 
