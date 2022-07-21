@@ -10,11 +10,15 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=nodejs)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
-![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite)
+![PostgresQL](https://img.shields.io/badge/-PostgresQL-000000?style=flat&logo=postgresql)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
+![Craft CMS](https://img.shields.io/badge/-CraftCMS-000000?style=flat&logo=craftcms)
+![Gatsby](https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=gatsby)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
 
-⭐️ **Current Status:** Junior Engineer @ Mostly Serious <br/>
-🌱 **Currently Working on:** No personal project at the moment <br/>
-:muscle: **Currently Working with:** Django w/Wagtail & Mezzanine across various projects and Craft CMS 
+⭐️ **Current Status:** Software Engineer II @ Ana Luisa <br/>
+🌱 **Currently Working on:** A Passion Project <br/>
+
 
 
