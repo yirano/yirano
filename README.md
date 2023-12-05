@@ -17,8 +17,3 @@
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=gatsby)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
 
-⭐️ **Current Status:** Software Engineer II @ Ana Luisa <br/>
-🌱 **Currently Working on:** A Passion Project <br/>
-
-
-
