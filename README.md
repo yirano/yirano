@@ -1,4 +1,4 @@
-### *Heyo*! My name is **Yirang**. :wave:
+### *Heyo*! My name is **Tiffany**. :wave:
 
 ### I'm a frontend focused Fullstack developer powered by... <br />
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
